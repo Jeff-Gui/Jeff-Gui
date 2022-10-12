@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jeff-Gui
-- 👀 I’m interested in cancer genomics, machine learning and precision medicine.
-- 🌱 I’m currently registered in BSc. Biomedical Informatics in Zhejiang University and University of Edinburgh Institute (ZJE).
+- 👀 I’m interested in non-coding RNA, epigenetic regulation, cancer genomics and machine learning.
+- 🌱 I’m currently doing a Medical Science PhD at Cancer Research UK Cambridge Institute, University of Cambridge.
 - 💞️ I’m looking to collaborate on multi-omics, image analysis and modeling projects.
 - 📫 My email account is jeffgui9912@gmail.com
 
